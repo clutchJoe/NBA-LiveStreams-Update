@@ -1,0 +1,34 @@
+{
+  "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+  "title": "NBA Live Broadcast Link Update",
+  "channels": [
+    {
+      "name": "Cleveland Cavaliers vs Detroit Pistons  (October 11th, 2019 - 7:00 PM ET)",
+      "url": "http://the.spursz.xyz/hls/cle.m3u8"
+    },
+    {
+      "name": "Chicago Bulls vs Indiana Pacers  (October 11th, 2019 - 7:00 PM ET)",
+      "url": "http://the.spursz.xyz/hls/chi.m3u8"
+    },
+    {
+      "name": "Boston Celtics vs Orlando Magic  (October 11th, 2019 - 7:00 PM ET)",
+      "url": "http://the.spursz.xyz/hls/bos.m3u8"
+    },
+    {
+      "name": "Philadelphia 76ers vs Charlotte Hornets  (October 11th, 2019 - 7:30 PM ET)",
+      "url": "http://the.spursz.xyz/hls/cha.m3u8"
+    },
+    {
+      "name": "Washington Wizards vs New York Knicks  (October 11th, 2019 - 7:30 PM ET)",
+      "url": "http://the.spursz.xyz/hls/nyk.m3u8"
+    },
+    {
+      "name": "Utah Jazz vs New Orleans Pelicans  (October 11th, 2019 - 8:00 PM ET)",
+      "url": "http://live3.nba4free.com/hls/nbatv.m3u8"
+    },
+    {
+      "name": "Milwaukee Bucks vs Dallas Mavericks  (October 11th, 2019 - 8:30 PM ET)",
+      "url": "http://live3.nba4free.com/hls/dal.m3u8"
+    }
+  ]
+}

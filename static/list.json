@@ -1,0 +1,22 @@
+[
+  {
+    "head": "Buenos Aires San Lorenzo vs Cleveland Cavaliers",
+    "link": "http://the.cavaliersz.xyz/hls/cle.m3u8"
+  },
+  {
+    "head": "Orlando Magic vs Detroit Pistons",
+    "link": "http://the.cavaliersz.xyz/hls/det.m3u8"
+  },
+  {
+    "head": "New York Knicks vs Washington Wizards",
+    "link": "http://the.cavaliersz.xyz/hls/nyk.m3u8"
+  },
+  {
+    "head": "New Orleans Pelicans vs Atlanta Hawks",
+    "link": "http://the.cavaliersz.xyz/hls/nbatv.m3u8"
+  },
+  {
+    "head": "Milwaukee Bucks vs Chicago Bulls",
+    "link": "http://the.cavaliersz.xyz/hls/chi.m3u8"
+  }
+]
